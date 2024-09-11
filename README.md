@@ -1,23 +1,22 @@
-Unscramble app
+Word-Guess-Game
 =================================
 
-Single player game app that displays scrambled words. To play the game, player has to make a
-word using all the letters in the displayed scrambled word.
-This code demonstrates the Android Architecture component- ViewModel and StateFlow.
+A single player word scrambler game. Displays a scrambled work and the player has to guess the word correctly or skip to next.
+Player scores points if word is correct
 
 [finalfinalvid.webm](https://github.com/user-attachments/assets/9c4687c5-0ba9-4fa7-95f3-be5635f9466c)
 
 
-Pre-requisites
+App Architecture 
 --------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
+* JetPack Compose, View Model 
+* Separation of concerns and driving UI from a model
+* The drive UI from a model principle states that you should drive your UI from a model, preferably a persistent model
+* UDF Architecture for the UI having events update state abd display states. 
+
+![Screenshot 2024-09-11 at 10 59 02 AM](https://github.com/user-attachments/assets/f89f2537-9963-4cd5-bc15-b5057bcc65cd)
 
 
-Getting Started
+Reference
 ---------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state?hl=en#0
