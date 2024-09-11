@@ -5,11 +5,8 @@ Single player game app that displays scrambled words. To play the game, player h
 word using all the letters in the displayed scrambled word.
 This code demonstrates the Android Architecture component- ViewModel and StateFlow.
 
-<div align="center">
- <video src=[finalfinalvid.webm](https://github.com/user-attachments/assets/9c4687c5-0ba9-4fa7-95f3-be5635f9466c)
-   width = "400"
-   />
-</div>
+[finalfinalvid.webm](https://github.com/user-attachments/assets/9c4687c5-0ba9-4fa7-95f3-be5635f9466c)
+
 
 Pre-requisites
 --------------
