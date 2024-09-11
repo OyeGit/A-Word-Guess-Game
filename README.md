@@ -6,8 +6,6 @@ word using all the letters in the displayed scrambled word.
 This code demonstrates the Android Architecture component- ViewModel and StateFlow.
 
 
-https://github.com/user-attachments/assets/f8923067-1502-41ee-bd06-23ced5a2bf13
-
 
 
 Pre-requisites
